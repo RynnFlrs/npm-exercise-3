@@ -8,7 +8,7 @@ npm install @estilles/expression-parser
 
 Run the program by the command: 
 ```
-node index *'infix_expression'*
+node index 'infix_expression'
 ```
 <sub>*Note that the infix_expression must be enclosed by ''</sub>
 
